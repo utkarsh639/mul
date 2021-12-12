@@ -1,0 +1,10 @@
+body{
+    background-color: azure;
+}
+input{
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: bisque;
+}
